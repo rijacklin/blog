@@ -20,4 +20,5 @@
 ###< symfony/asset-mapper ###
 
 ### Local dev
+guide.md
 commands.md
